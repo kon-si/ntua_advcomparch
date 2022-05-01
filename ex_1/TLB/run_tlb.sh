@@ -1,6 +1,5 @@
 #!/bin/bash
 
-## Modify the following paths appropriately
 PARSEC_PATH=/data/advcomparch/parsec-3.0
 PIN_EXE=/data/advcomparch/pin-3.22-98547-g7a303a835-gcc-linux/pin
 PIN_TOOL=/data/advcomparch/advcomparch-ex1-helpcode/pintool/obj-intel64/simulator.so
@@ -10,7 +9,7 @@ outDir="/data/advcomparch/advcomparch-ex1-helpcode/TLB/outputs/"
 
 export LD_LIBRARY_PATH=$PARSEC_PATH/pkgs/libs/hooks/inst/amd64-linux.gcc-serial/lib/
 
-## Triples of <cache_size>_<associativity>_<block_size>
+## Triples of <size>_<associativity>_<page_size>
 CONFS="64_1_4096 64_2_4096 64_4_4096 64_8_4096 64_16_4096 64_32_4096 64_64_4096 128_4_4096 256_4_4096"
 
 L1size=32

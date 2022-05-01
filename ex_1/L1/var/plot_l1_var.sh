@@ -2,9 +2,6 @@
 
 import sys
 import numpy as np
-
-## We need matplotlib:
-## $ apt-get install python-matplotlib
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt

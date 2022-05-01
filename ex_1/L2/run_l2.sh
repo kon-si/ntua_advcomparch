@@ -1,6 +1,5 @@
 #!/bin/bash
 
-## Modify the following paths appropriately
 PARSEC_PATH=/data/advcomparch/parsec-3.0
 PIN_EXE=/data/advcomparch/pin-3.22-98547-g7a303a835-gcc-linux/pin
 PIN_TOOL=/data/advcomparch/advcomparch-ex1-helpcode/pintool/obj-intel64/simulator.so
