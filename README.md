@@ -1,1 +1,1 @@
-# ECE NTUA Advanced Computer Architecture
+# ECE NTUA 3352 Advanced Computer Architecture
