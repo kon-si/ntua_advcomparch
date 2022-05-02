@@ -1,1 +1,1 @@
-# ntua_advcomparch
+# ECE NTUA Advanced Computer Architecture
