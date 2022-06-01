@@ -1,0 +1,14 @@
+Total Instructions: 80776860956
+
+RAS: (Correct - Incorrect)
+RAS (4 entries): 3678818 30414
+RAS (8 entries): 3706890 2342
+RAS (16 entries): 3709229 3
+RAS (32 entries): 3709232 0
+RAS (48 entries): 3709232 0
+RAS (64 entries): 3709232 0
+
+Branch Predictors: (Name - Correct - Incorrect)
+  Pentium-M: 155309484 5680932
+
+BTB Predictors: (Name - Correct - Incorrect - TargetCorrect - TargetIncorrect)

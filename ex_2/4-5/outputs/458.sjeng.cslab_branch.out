@@ -1,0 +1,24 @@
+Total Instructions: 457817638882
+
+RAS: (Correct - Incorrect)
+
+Branch Predictors: (Name - Correct - Incorrect)
+  StaticTakenPredictor: 36644139539 45443385481
+  BTFNTPredictor: 49293152828 32794372192
+  Nbit-8K-4: 70442109440 11645415580
+  Pentium-M: 70771964877 11315560143
+  LocalHistory-PHT(8K,2)-BHT(4K,4): 74122024752 7965500268
+  LocalHistory-PHT(8K,2)-BHT(8K,2): 71959301930 10128223090
+  GlobalHistory-PHT(16K,2)-BHR(4): 72764843138 9322681882
+  GlobalHistory-PHT(8K,4)-BHR(4): 72813294676 9274230344
+  GlobalHistory-PHT(16K,2)-BHR(8): 74647868135 7439656885
+  GlobalHistory-PHT(8K,4)-BHR(8): 73914315167 8173209853
+  Tournament-1K-Entries-(Nbit-8K-2,Nbit-4K-4): 70947004615 11140520405
+  Tournament-2K-Entries-(GlobalHistory-PHT(4K,4)-BHR(2),Nbit-8K-2): 71763054814 10324470206
+  Tournament-1K-Entries-(GlobalHistory-PHT(8K,2)-BHR(2),LocalHistory-PHT(2K,4)-BHT(4K,2)): 72736596010 9350929010
+  Tournament-1K-Entries-(Nbit-8K-2,GlobalHistory-PHT(8K,2)-BHR(5)): 73452211321 8635313699
+  Tournament-2K-Entries-(Nbit-8K-2,GlobalHistory-PHT(8K,2)-BHR(5)): 73497172878 8590352142
+  Tournament-1K-Entries-(Nbit-2K-8,LocalHistory-PHT(2K,4)-BHT(4K,2)): 72348533150 9738991870
+  ALPHA-PREDICTORLocalHistory-PHT(1K,3)-BHT(1K,10),GlobalHistory-PHT(4K,2)-BHR(12)): 75343323340 6744201680
+
+BTB Predictors: (Name - Correct - Incorrect - TargetCorrect - TargetIncorrect)

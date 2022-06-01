@@ -2,3 +2,6 @@
 
 ## Exercise 1
 ### Memory Hierarchy
+
+## Exercise 2
+### Branch Predictors
